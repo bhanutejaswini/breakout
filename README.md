@@ -18,4 +18,5 @@ When the player loses the game
 
 When the player wins the game
 
-![image](https://github.com/bhanutejaswini/breakout/assets/29518361/17be8a22-4934-44d4-aa31-4549878578e2)
+![image](https://github.com/bhanutejaswini/breakout/assets/29518361/cbc4971f-3df4-4f2f-88da-4b4f5274fa83)
+
